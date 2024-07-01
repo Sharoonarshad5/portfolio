@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages and methods by building an AI-image-generator app.",
+      "skills": ["React", "Api", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Sharoonarshad5/AI-image-generator"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages and methods by building an expenses calculator app.",
+      "skills": ["Anglar","Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Sharoonarshad5/ExpenseCalculator"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages and methods by building a Weather App.",
+      "skills": ["HTML","CSS","JS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Sharoonarshad5/Weather-App"
+    }
+  ]

@@ -1,0 +1,13 @@
+/* @import  "../../Navbar.models.css"; */
+:root{
+    /* colours*/
+    --color-text: #fff;
+    --color-primary: #576cbc;
+    --color-secondary: #19376d;
+    --color-dark : #0c234e;
+    --color-bg: #04152d;
+
+    /* fonts*/
+    --font-roboto:"Roboto";
+
+}
