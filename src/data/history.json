@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Software Engineer",
+      "organisation": "sarhad university",
+      "startDate": "Sept, 2023",
+      "endDate": "Present",
+      "experiences": ["Worked on Frontend", "modified the look of there website"],
+      "imageSrc": "history/logo.png"
+    },
+    {
+      "role": "database designer",
+      "organisation": "sarhad university",
+      "startDate": "jan, 2024",
+      "endDate": "mar, 2024",
+      "experiences": [
+        "Worked on database of there library ","Designed and implemented data collection strategies, utilizing tools such as"],
+      "imageSrc": "history/logo.png"
+    }
+  ]
