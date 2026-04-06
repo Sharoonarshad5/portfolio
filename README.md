@@ -11,10 +11,6 @@
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
-- [Deployment](#deployment)
-- [Customization](#customization)
-- [Project Structure](#project-structure)
-- [Contact](#contact)
 
 ---
 
